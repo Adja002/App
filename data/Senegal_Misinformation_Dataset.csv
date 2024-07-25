@@ -1,0 +1,701 @@
+Region,Age,Education_Level,Socioeconomic_Status,Media_Consumption_Habits,Trust_in_Sources,Believability_in_Misinformation,Psychometric_Profile
+Ziguinchor,52,No formal education,High,Traditional Media,High,Low,ISTJ
+Ziguinchor,38,Secondary,High,Social Media,Low,Medium,ESFJ
+Dakar,27,No formal education,Medium,Social Media,Medium,High,INTJ
+Ziguinchor,37,Primary,Low,Both,Low,High,ESTJ
+Thies,42,No formal education,Low,Social Media,High,High,INTJ
+Matam,20,No formal education,High,Traditional Media,High,Medium,ISTP
+Matam,35,Secondary,Low,Traditional Media,Low,Low,ENFP
+Thies,44,Secondary,High,Traditional Media,Low,Low,ISTJ
+Kedougou,46,Primary,Medium,Social Media,High,High,ENTP
+Dakar,22,Secondary,High,Social Media,Low,Low,INFJ
+Matam,32,Secondary,High,Social Media,Low,Medium,INTJ
+Dakar,46,Tertiary,Medium,Both,Low,High,ESFP
+Kedougou,22,Secondary,High,Social Media,Low,Low,INFP
+Dakar,57,Secondary,High,Social Media,High,Medium,ENFP
+Dakar,69,Secondary,Medium,Social Media,High,Low,INTP
+Matam,30,Secondary,Medium,Social Media,High,Low,ESTP
+Matam,18,Primary,Medium,Both,Medium,Low,ESFP
+Ziguinchor,40,Tertiary,Low,Traditional Media,Medium,Medium,INTJ
+Dakar,69,Primary,Medium,Social Media,Low,Low,ESTP
+Ziguinchor,30,No formal education,Medium,Social Media,Medium,Medium,ENFJ
+Matam,24,Secondary,Medium,Both,High,Low,ESFJ
+Thies,31,Secondary,Low,Social Media,High,High,ISTJ
+Ziguinchor,58,Primary,High,Both,High,High,ESFJ
+Thies,51,Secondary,High,Traditional Media,Low,High,ENTP
+Kedougou,63,No formal education,Low,Social Media,High,Low,ENFP
+Matam,24,No formal education,Low,Social Media,Low,Medium,ESFJ
+Kedougou,40,Tertiary,High,Social Media,Medium,Low,ESTJ
+Thies,52,No formal education,Low,Both,Medium,High,ISFJ
+Matam,18,Secondary,High,Social Media,Medium,Low,ESTP
+Matam,57,Secondary,Medium,Both,High,Medium,ISTJ
+Thies,23,Secondary,Low,Traditional Media,Low,High,ENFJ
+Matam,55,Primary,Medium,Social Media,Medium,Medium,INFJ
+Kedougou,27,Secondary,Low,Both,Low,Low,ENTP
+Matam,65,Tertiary,Medium,Traditional Media,High,Medium,INFJ
+Dakar,61,Primary,Low,Social Media,Medium,Low,ISTP
+Ziguinchor,47,No formal education,Medium,Both,Medium,Low,ISFP
+Thies,53,Secondary,Medium,Both,Medium,High,ISTP
+Kedougou,19,No formal education,High,Social Media,Medium,Low,ISFJ
+Ziguinchor,47,No formal education,High,Both,Medium,High,INTP
+Kedougou,36,Secondary,Medium,Traditional Media,Low,High,ESTJ
+Thies,60,Secondary,Medium,Social Media,Medium,Low,ESFP
+Thies,41,Secondary,Medium,Traditional Media,High,Low,ESFP
+Thies,31,Secondary,Medium,Both,High,Medium,ENTJ
+Ziguinchor,20,Primary,High,Traditional Media,High,High,ESTP
+Kedougou,60,Secondary,Low,Both,High,Low,INTJ
+Dakar,63,No formal education,High,Both,Medium,Low,ENFJ
+Ziguinchor,44,Tertiary,Low,Traditional Media,High,Low,ESFJ
+Dakar,26,Secondary,Low,Traditional Media,Medium,Medium,ENTJ
+Dakar,66,Tertiary,Low,Traditional Media,Low,Low,ISFJ
+Kedougou,25,Tertiary,Medium,Traditional Media,Low,Medium,ESTP
+Ziguinchor,27,No formal education,Low,Social Media,Medium,High,ESTP
+Thies,40,Secondary,Medium,Social Media,Medium,High,INTJ
+Matam,35,Primary,Low,Both,Medium,High,ESFP
+Ziguinchor,42,Primary,Medium,Both,Medium,Low,INFP
+Kedougou,52,No formal education,High,Social Media,Medium,Medium,ISTJ
+Thies,30,Secondary,Low,Traditional Media,High,Low,INFJ
+Matam,33,Primary,High,Social Media,Medium,Low,ISFJ
+Ziguinchor,36,Primary,High,Traditional Media,Low,Low,ESTP
+Thies,24,Primary,Medium,Traditional Media,Low,Low,ISTJ
+Thies,27,Primary,Low,Both,Low,High,ISTP
+Dakar,30,No formal education,Low,Both,Low,Medium,ESFP
+Kedougou,63,Primary,Medium,Traditional Media,High,High,ESTP
+Dakar,25,No formal education,Medium,Traditional Media,Low,Medium,ISTP
+Ziguinchor,47,Secondary,High,Both,High,Low,ESFP
+Kedougou,48,Primary,Low,Social Media,Medium,Medium,ISTJ
+Thies,48,Tertiary,Low,Traditional Media,Medium,Low,ISTJ
+Thies,31,Primary,Low,Traditional Media,Low,Low,INFJ
+Dakar,38,Secondary,Low,Both,Low,Medium,INTJ
+Kedougou,36,Secondary,Medium,Traditional Media,High,Medium,ESFP
+Ziguinchor,24,Secondary,Medium,Both,Medium,Medium,ENTJ
+Dakar,44,Primary,Medium,Both,Medium,Medium,ENFP
+Dakar,41,No formal education,Medium,Traditional Media,Medium,Medium,ENTP
+Dakar,38,Primary,Low,Traditional Media,High,High,ENTP
+Dakar,22,No formal education,High,Traditional Media,Low,Low,ISFP
+Dakar,35,Tertiary,Low,Traditional Media,High,High,ESFP
+Matam,67,Tertiary,High,Traditional Media,Low,Low,ENTJ
+Dakar,21,Secondary,Medium,Traditional Media,High,Medium,INFP
+Kedougou,62,No formal education,Low,Both,Medium,High,ESFJ
+Kedougou,26,Primary,Medium,Social Media,High,High,ISFJ
+Thies,34,No formal education,Medium,Traditional Media,Low,High,ENFP
+Matam,23,Tertiary,Low,Both,High,High,INTP
+Ziguinchor,53,Primary,Medium,Traditional Media,Medium,Low,ESFP
+Matam,30,Tertiary,Medium,Traditional Media,Medium,High,ENFP
+Dakar,52,Tertiary,High,Social Media,Medium,High,ESTP
+Matam,68,Tertiary,Low,Social Media,Medium,Medium,ISTJ
+Kedougou,46,Tertiary,High,Traditional Media,Medium,Medium,ISFJ
+Ziguinchor,59,No formal education,Low,Traditional Media,Low,Low,ENFP
+Dakar,55,No formal education,Medium,Social Media,Low,Medium,ISFP
+Kedougou,18,Tertiary,Low,Traditional Media,High,Low,ISTJ
+Ziguinchor,28,Secondary,Medium,Social Media,Low,High,ENTJ
+Kedougou,51,No formal education,Medium,Social Media,Medium,Medium,INFP
+Thies,30,Tertiary,Medium,Both,Low,High,ENTP
+Dakar,25,Tertiary,Medium,Social Media,Medium,High,ENFP
+Dakar,40,Tertiary,Medium,Social Media,Medium,Medium,INTJ
+Matam,29,Tertiary,High,Both,High,High,ESFJ
+Dakar,45,Primary,High,Social Media,Low,Medium,ENFJ
+Thies,30,Primary,Low,Both,Low,Low,INTJ
+Kedougou,37,Primary,Medium,Traditional Media,Medium,High,ISFP
+Thies,39,Primary,High,Both,High,Low,INTJ
+Matam,47,Secondary,Low,Social Media,Medium,High,ESFJ
+Dakar,19,Primary,High,Traditional Media,High,Low,ENTJ
+Matam,62,Primary,Medium,Traditional Media,High,Medium,ISTJ
+Kedougou,46,Primary,Low,Both,Medium,Medium,ISTJ
+Dakar,51,Primary,Low,Traditional Media,Medium,Low,ISTJ
+Matam,22,Tertiary,High,Both,High,Medium,ISTP
+Ziguinchor,62,No formal education,High,Social Media,Low,High,ENTP
+Matam,26,Secondary,High,Traditional Media,Medium,High,ISFJ
+Thies,51,Primary,High,Both,Medium,Medium,INTP
+Thies,35,Secondary,High,Both,Low,Medium,INTP
+Matam,61,Secondary,High,Traditional Media,Medium,Medium,ESTJ
+Dakar,27,No formal education,Low,Social Media,Medium,High,ISTP
+Matam,33,Primary,High,Social Media,High,High,ENFP
+Kedougou,35,Secondary,Low,Social Media,High,High,ESTJ
+Ziguinchor,54,Primary,Low,Traditional Media,High,Low,INFJ
+Kedougou,36,Tertiary,Medium,Both,Medium,High,ISTJ
+Kedougou,65,Primary,Low,Both,Medium,High,ISFP
+Thies,48,Primary,Low,Social Media,Medium,Low,ENTP
+Kedougou,68,Secondary,Medium,Both,High,Low,INFJ
+Ziguinchor,60,No formal education,Low,Social Media,High,Low,ENFP
+Matam,19,Tertiary,High,Both,High,Medium,ESFJ
+Matam,40,Secondary,Low,Traditional Media,Low,Low,ENFJ
+Matam,65,Secondary,High,Both,High,Low,INFP
+Ziguinchor,36,Primary,Low,Social Media,High,Low,ENFJ
+Kedougou,46,Primary,Low,Both,Medium,Medium,ESTJ
+Thies,61,Secondary,Medium,Social Media,Medium,High,ENTP
+Matam,23,Primary,Medium,Social Media,Medium,Medium,ESTJ
+Thies,33,Secondary,Medium,Both,Medium,Low,ESTP
+Thies,69,No formal education,Medium,Traditional Media,Low,Medium,ENFP
+Dakar,47,No formal education,Medium,Social Media,High,Medium,ENFP
+Thies,26,Secondary,Medium,Both,High,Medium,ESFJ
+Kedougou,67,Secondary,High,Both,High,Medium,INFP
+Matam,56,Secondary,Medium,Social Media,High,Medium,ISFP
+Ziguinchor,43,Secondary,High,Both,Medium,Medium,ESTJ
+Kedougou,47,Secondary,High,Social Media,Medium,High,ENFP
+Matam,56,No formal education,High,Social Media,Low,Medium,ENTP
+Dakar,69,Primary,High,Social Media,High,High,ENTP
+Ziguinchor,50,Secondary,Medium,Both,Low,Low,INTP
+Kedougou,29,Tertiary,Low,Social Media,High,Medium,ISFP
+Thies,69,Primary,Low,Social Media,High,High,INTJ
+Thies,55,Secondary,High,Traditional Media,High,Low,ENTP
+Thies,49,No formal education,High,Social Media,High,High,INTP
+Matam,42,Primary,High,Social Media,Low,High,ESTJ
+Kedougou,44,Primary,Low,Traditional Media,High,Low,ISFJ
+Ziguinchor,19,Secondary,Low,Social Media,Medium,Low,ESFP
+Ziguinchor,32,No formal education,High,Traditional Media,Medium,High,ESTJ
+Kedougou,28,No formal education,High,Traditional Media,Medium,Low,ENFJ
+Matam,23,No formal education,Low,Social Media,Medium,Medium,ENFP
+Matam,30,Primary,Medium,Social Media,Medium,Low,ESFP
+Ziguinchor,54,No formal education,High,Social Media,Low,High,ENTP
+Thies,24,No formal education,Low,Traditional Media,High,Low,ISFJ
+Thies,68,Secondary,Medium,Traditional Media,Medium,Low,INFP
+Thies,48,No formal education,Medium,Social Media,Medium,Medium,ENTJ
+Matam,30,Primary,Low,Social Media,Medium,High,ESTJ
+Kedougou,29,Secondary,High,Both,Medium,High,INTP
+Kedougou,24,Secondary,High,Social Media,Low,Low,ESTJ
+Kedougou,67,Tertiary,Medium,Social Media,Medium,Low,ENFP
+Matam,35,Tertiary,Medium,Both,High,High,ISFJ
+Dakar,53,Primary,Low,Both,Low,Medium,INTP
+Thies,60,No formal education,Low,Both,Medium,Medium,ISTJ
+Kedougou,55,Secondary,High,Traditional Media,Medium,High,ISTJ
+Dakar,42,Tertiary,High,Traditional Media,High,High,ISTJ
+Matam,18,Primary,Low,Social Media,High,Low,ENTJ
+Ziguinchor,62,Primary,High,Traditional Media,High,High,ENFP
+Matam,53,Primary,High,Social Media,High,High,INFJ
+Dakar,51,No formal education,Low,Traditional Media,Medium,Medium,ISFJ
+Dakar,48,Secondary,Medium,Both,High,Low,INFP
+Dakar,43,No formal education,Low,Both,High,High,ISFP
+Thies,62,No formal education,High,Social Media,Medium,Medium,ESFJ
+Ziguinchor,65,Primary,Medium,Both,Medium,High,INFJ
+Matam,41,No formal education,High,Social Media,Low,Medium,ENFJ
+Thies,39,Tertiary,Medium,Both,Low,Medium,ENFP
+Ziguinchor,39,No formal education,High,Both,Low,High,ISTP
+Thies,55,Primary,Medium,Traditional Media,Low,Medium,ISFP
+Dakar,51,Primary,High,Both,High,Medium,INTJ
+Kedougou,61,Primary,Medium,Traditional Media,High,Low,ISTP
+Matam,19,Primary,Low,Both,High,Low,INTJ
+Thies,35,Primary,High,Traditional Media,Low,High,INFJ
+Ziguinchor,54,Tertiary,Low,Traditional Media,High,Medium,ENTJ
+Dakar,67,Tertiary,Low,Both,High,High,ISFJ
+Dakar,46,No formal education,Low,Both,High,Low,ESTP
+Dakar,18,Tertiary,Medium,Social Media,Low,High,ESTJ
+Thies,55,No formal education,Medium,Social Media,Medium,Medium,INFJ
+Dakar,39,Secondary,Low,Traditional Media,Low,Medium,ENTP
+Kedougou,29,Primary,Medium,Both,Medium,Medium,INTP
+Dakar,45,Tertiary,High,Both,Medium,Low,INTJ
+Ziguinchor,59,Tertiary,High,Traditional Media,Low,Low,ISFP
+Kedougou,37,Secondary,Low,Both,High,High,INTJ
+Dakar,35,No formal education,High,Social Media,Medium,Low,ENTP
+Ziguinchor,34,Secondary,Low,Social Media,Medium,Low,ENTJ
+Ziguinchor,55,No formal education,Low,Traditional Media,High,Low,INTJ
+Dakar,34,Tertiary,High,Traditional Media,Low,Medium,INTP
+Matam,34,Tertiary,Medium,Social Media,Medium,Low,INTP
+Ziguinchor,21,Secondary,Medium,Social Media,High,Low,ISFP
+Ziguinchor,53,No formal education,Low,Social Media,Low,Medium,INTJ
+Thies,21,Tertiary,High,Traditional Media,High,Medium,ESTJ
+Kedougou,65,Tertiary,Medium,Both,Low,Medium,INFP
+Dakar,66,Primary,Low,Social Media,High,Medium,ENTP
+Kedougou,58,Secondary,High,Both,Medium,Medium,INTJ
+Thies,49,Primary,Low,Traditional Media,High,Medium,ESFP
+Ziguinchor,48,No formal education,High,Traditional Media,Low,High,ESFJ
+Kedougou,21,Primary,Low,Traditional Media,High,High,ENFP
+Dakar,44,Secondary,High,Social Media,Medium,Low,INTP
+Thies,55,Tertiary,Low,Both,High,Low,ISFJ
+Matam,58,Tertiary,Low,Traditional Media,High,High,INFP
+Kedougou,44,No formal education,Low,Social Media,Medium,Medium,ISFP
+Kedougou,58,Tertiary,High,Both,High,Low,ISFP
+Thies,24,Tertiary,Low,Both,High,Low,INTJ
+Ziguinchor,61,Tertiary,Low,Traditional Media,High,Medium,ESFJ
+Matam,52,Tertiary,High,Both,Low,Low,ISTJ
+Thies,64,No formal education,Low,Both,Low,Medium,ISTP
+Ziguinchor,43,Tertiary,Medium,Traditional Media,High,Medium,ENTP
+Dakar,49,Tertiary,High,Both,High,Medium,ESFP
+Matam,41,Primary,Medium,Both,High,High,INTJ
+Kedougou,65,Secondary,Medium,Traditional Media,Low,Medium,INFJ
+Ziguinchor,49,No formal education,High,Social Media,Low,Low,ESFJ
+Thies,31,Tertiary,Low,Social Media,High,Low,ENFP
+Thies,51,No formal education,Low,Both,High,Medium,ESFJ
+Dakar,59,Tertiary,High,Social Media,Medium,High,ENTJ
+Ziguinchor,21,Secondary,Low,Social Media,Medium,Medium,INFJ
+Ziguinchor,63,No formal education,Low,Traditional Media,Medium,Low,INFJ
+Ziguinchor,60,Tertiary,Medium,Both,Low,High,ENTP
+Dakar,47,No formal education,Low,Traditional Media,Low,High,INTJ
+Kedougou,50,Secondary,Low,Traditional Media,Medium,Medium,INTP
+Thies,61,No formal education,Low,Social Media,Low,High,ESTJ
+Kedougou,24,Tertiary,High,Traditional Media,Medium,High,ISFP
+Dakar,21,Tertiary,Medium,Traditional Media,Medium,Medium,INTJ
+Thies,51,Primary,Medium,Both,High,Medium,ENTJ
+Thies,59,Tertiary,Medium,Traditional Media,Low,High,ESTP
+Thies,21,Tertiary,High,Social Media,Low,Low,ISTP
+Dakar,23,Secondary,Medium,Social Media,Medium,Low,ENTJ
+Kedougou,31,Tertiary,Low,Traditional Media,Low,High,ESFP
+Dakar,54,Tertiary,Low,Traditional Media,Low,High,ESFP
+Matam,46,No formal education,Low,Traditional Media,Medium,Medium,ESFJ
+Matam,22,Secondary,Medium,Both,Medium,Medium,ESTJ
+Thies,67,No formal education,Low,Both,High,Medium,ESTJ
+Matam,30,No formal education,Low,Traditional Media,Medium,Low,ISTP
+Ziguinchor,53,Tertiary,Low,Traditional Media,Low,Medium,ESTP
+Dakar,60,Tertiary,Medium,Both,High,High,ISTP
+Kedougou,23,Secondary,Medium,Social Media,Low,High,ISTJ
+Kedougou,40,Primary,High,Traditional Media,High,Medium,ISTJ
+Kedougou,52,Secondary,High,Both,High,Low,INFP
+Kedougou,24,No formal education,High,Both,Low,High,ISTP
+Kedougou,44,Tertiary,Low,Social Media,High,High,ENTJ
+Dakar,51,No formal education,High,Social Media,Medium,Low,ISTJ
+Ziguinchor,47,No formal education,Medium,Social Media,High,High,ESFP
+Kedougou,51,Primary,High,Traditional Media,High,Low,ESFJ
+Ziguinchor,44,Secondary,Low,Traditional Media,Medium,Low,ISFJ
+Ziguinchor,47,Secondary,High,Traditional Media,Medium,High,ENFJ
+Ziguinchor,31,Tertiary,High,Both,Medium,Low,ISTJ
+Dakar,65,Primary,Low,Both,High,Low,ENTP
+Thies,34,Tertiary,Low,Traditional Media,Medium,High,ENFJ
+Dakar,28,Secondary,Low,Traditional Media,Low,High,ESTJ
+Matam,26,Tertiary,Medium,Social Media,High,Medium,INFJ
+Ziguinchor,68,Tertiary,High,Social Media,Medium,Low,ESTP
+Matam,60,Tertiary,High,Social Media,High,Medium,INFJ
+Kedougou,58,Primary,Low,Both,Low,High,ISTJ
+Thies,24,Secondary,High,Traditional Media,Low,Medium,ENFP
+Ziguinchor,66,Tertiary,High,Social Media,High,High,ISFP
+Ziguinchor,41,Primary,Medium,Traditional Media,High,Medium,ENTP
+Matam,52,Tertiary,High,Both,Low,Low,INTP
+Thies,42,Secondary,Medium,Traditional Media,High,Low,INFJ
+Dakar,18,Tertiary,Low,Traditional Media,High,High,ENTJ
+Dakar,64,No formal education,Low,Traditional Media,Medium,Low,ENFJ
+Dakar,41,Primary,Low,Traditional Media,High,Medium,ENFP
+Kedougou,65,No formal education,High,Social Media,High,Low,ESTP
+Ziguinchor,48,Tertiary,Low,Both,High,High,ESTJ
+Ziguinchor,64,Primary,Medium,Social Media,High,Low,ISTP
+Thies,32,No formal education,Medium,Both,High,Low,INTJ
+Matam,66,No formal education,Medium,Traditional Media,Medium,High,ESTJ
+Dakar,53,Secondary,Low,Both,High,Medium,ISTP
+Thies,65,Secondary,Low,Traditional Media,Medium,Low,ISFJ
+Thies,64,No formal education,High,Traditional Media,Low,High,ENTP
+Matam,43,No formal education,High,Both,Medium,Medium,INFJ
+Thies,50,No formal education,High,Both,Low,High,ENFP
+Kedougou,44,Primary,High,Both,Low,Medium,ENFJ
+Dakar,69,Primary,Low,Traditional Media,High,Medium,ENTJ
+Ziguinchor,37,Primary,Low,Both,High,Low,INTP
+Thies,38,No formal education,High,Social Media,Low,Low,ISTP
+Dakar,27,Primary,Medium,Both,Low,Medium,ESFP
+Dakar,67,Secondary,High,Traditional Media,Low,High,ISTP
+Kedougou,26,Secondary,Low,Traditional Media,High,Medium,ESFJ
+Matam,30,Tertiary,Medium,Traditional Media,Medium,Medium,ISTP
+Ziguinchor,30,Tertiary,Low,Traditional Media,Medium,Medium,ENFP
+Thies,63,Secondary,Medium,Both,Low,High,ENTJ
+Kedougou,25,No formal education,Low,Social Media,High,Low,ENFP
+Thies,30,No formal education,Medium,Social Media,Medium,Medium,ESTP
+Ziguinchor,67,Primary,High,Both,Low,Medium,ESFJ
+Matam,54,Primary,Low,Traditional Media,Medium,Low,ISTJ
+Thies,39,Primary,High,Traditional Media,Medium,High,INTP
+Dakar,45,No formal education,High,Both,High,Medium,ENTP
+Ziguinchor,27,Secondary,Medium,Both,Low,Medium,ISFJ
+Ziguinchor,40,Primary,Medium,Traditional Media,Low,High,ISTJ
+Dakar,22,No formal education,High,Both,Medium,Low,INFP
+Dakar,52,Secondary,Low,Social Media,Low,Medium,ISFP
+Kedougou,18,No formal education,High,Social Media,High,Medium,ESTJ
+Thies,64,Primary,Low,Traditional Media,Medium,Medium,ISFP
+Kedougou,42,Primary,Low,Traditional Media,High,Medium,ESTP
+Ziguinchor,56,Primary,Medium,Both,High,Medium,ENFP
+Dakar,63,Tertiary,Low,Traditional Media,High,Medium,ESFP
+Dakar,27,No formal education,High,Both,High,High,INTP
+Ziguinchor,35,No formal education,High,Social Media,High,Low,ISFJ
+Thies,23,Primary,Medium,Social Media,Medium,High,ESTP
+Matam,32,Secondary,Low,Traditional Media,High,Low,ENFP
+Thies,19,Tertiary,Medium,Social Media,Medium,Low,ESFJ
+Thies,54,Secondary,High,Social Media,High,High,ESFP
+Kedougou,47,Tertiary,Medium,Traditional Media,Medium,Medium,ENFP
+Matam,49,Tertiary,High,Social Media,High,Medium,ENTJ
+Kedougou,43,Secondary,Low,Both,Low,Low,ENTP
+Dakar,38,Primary,Medium,Traditional Media,High,High,ISTJ
+Kedougou,18,No formal education,Low,Social Media,Low,Medium,ENTP
+Dakar,26,No formal education,Medium,Both,Low,High,INFP
+Ziguinchor,66,Primary,Low,Social Media,Medium,High,ESFP
+Dakar,19,Tertiary,Medium,Social Media,Medium,Medium,ENTP
+Dakar,59,Secondary,Medium,Social Media,Medium,Low,ISTJ
+Thies,36,No formal education,Medium,Traditional Media,Low,Medium,ESTP
+Dakar,37,No formal education,Low,Traditional Media,Low,High,ESFP
+Dakar,49,No formal education,Low,Both,High,Medium,ESFP
+Kedougou,24,Secondary,High,Social Media,High,Low,ESTP
+Dakar,54,Tertiary,High,Traditional Media,High,High,ISFJ
+Matam,66,No formal education,Low,Social Media,Low,Medium,ENFJ
+Thies,54,Tertiary,Medium,Social Media,Medium,Medium,INFJ
+Thies,59,Primary,High,Both,High,Low,ENFP
+Matam,53,Tertiary,Low,Both,Medium,High,ENTJ
+Matam,51,No formal education,High,Social Media,Low,Medium,INTJ
+Matam,26,Secondary,Medium,Both,High,High,ENTP
+Kedougou,52,Primary,Low,Social Media,High,High,ISTP
+Dakar,20,Secondary,High,Both,High,High,ISTJ
+Dakar,49,Primary,Low,Traditional Media,Medium,High,ESTJ
+Thies,67,Tertiary,Low,Traditional Media,High,Medium,ISFP
+Ziguinchor,55,No formal education,High,Social Media,Medium,High,ENTP
+Thies,36,No formal education,Medium,Both,High,Medium,INTP
+Ziguinchor,36,Primary,Medium,Social Media,Medium,High,ISFP
+Matam,62,Tertiary,Low,Both,Low,Low,INTP
+Matam,32,Tertiary,Medium,Both,Medium,Low,ESFP
+Thies,30,Primary,High,Both,Low,High,INTP
+Ziguinchor,30,Secondary,Medium,Social Media,Low,High,ENTP
+Kedougou,24,Primary,High,Social Media,Medium,High,ISFP
+Thies,33,No formal education,High,Social Media,Low,Low,ENTJ
+Kedougou,62,No formal education,High,Social Media,High,Low,ESTJ
+Ziguinchor,33,Tertiary,Low,Social Media,Medium,Medium,ESFP
+Thies,23,Secondary,Medium,Both,Low,High,ENTP
+Matam,41,Tertiary,High,Traditional Media,Medium,High,ESFP
+Ziguinchor,19,No formal education,High,Both,Medium,High,ESFJ
+Matam,63,Secondary,Low,Social Media,Medium,Low,INTJ
+Kedougou,30,Secondary,Low,Both,High,High,ESTP
+Ziguinchor,61,Primary,High,Social Media,Low,Low,ESTJ
+Thies,34,No formal education,Medium,Traditional Media,High,Medium,ISFP
+Dakar,49,Primary,Medium,Social Media,Medium,High,INFJ
+Ziguinchor,44,Tertiary,Medium,Social Media,Medium,Low,ISFP
+Dakar,37,Secondary,Medium,Both,Low,High,ENTP
+Thies,64,Secondary,High,Traditional Media,Low,High,ENTP
+Matam,31,No formal education,Low,Both,Low,High,ENTJ
+Thies,66,Primary,High,Social Media,Low,Low,INFP
+Ziguinchor,41,No formal education,Low,Traditional Media,Medium,Low,ESFP
+Ziguinchor,46,Secondary,Medium,Traditional Media,High,Low,ENFP
+Kedougou,38,Secondary,High,Traditional Media,Medium,Low,INFP
+Dakar,24,Tertiary,Medium,Social Media,Medium,Medium,ISFJ
+Matam,23,Tertiary,Medium,Traditional Media,Medium,Medium,ISTP
+Thies,57,Tertiary,High,Social Media,Medium,Low,ISFJ
+Ziguinchor,24,No formal education,Low,Traditional Media,Medium,Low,ENFP
+Kedougou,27,Secondary,Medium,Both,Low,Medium,ENTP
+Ziguinchor,41,Tertiary,Low,Both,Low,Low,ENTJ
+Ziguinchor,59,Secondary,Low,Both,High,High,ENTJ
+Kedougou,64,Tertiary,Low,Both,Medium,Medium,ISTP
+Ziguinchor,43,No formal education,Low,Both,Low,Low,ESFJ
+Thies,64,No formal education,High,Traditional Media,High,Low,ESTP
+Dakar,58,Tertiary,High,Social Media,Medium,High,INTP
+Ziguinchor,68,No formal education,Medium,Both,Medium,Low,INTP
+Matam,44,Primary,Low,Both,High,Low,ESFP
+Matam,37,Primary,Low,Social Media,High,High,ENTP
+Dakar,44,Primary,Low,Social Media,Low,Low,ESFJ
+Ziguinchor,53,No formal education,Low,Social Media,Low,Low,ISTP
+Kedougou,29,Primary,High,Both,High,High,INTP
+Matam,19,Primary,Medium,Both,Low,High,ISFP
+Thies,32,Primary,High,Both,High,High,ISTP
+Thies,25,Secondary,High,Traditional Media,Low,High,INFP
+Dakar,39,No formal education,Medium,Traditional Media,Low,High,ISFJ
+Kedougou,49,Primary,High,Social Media,Medium,Medium,ENTJ
+Ziguinchor,41,Secondary,Medium,Traditional Media,Low,Medium,ISTJ
+Dakar,57,Secondary,High,Both,Low,High,ENTJ
+Ziguinchor,41,Tertiary,Medium,Social Media,High,Low,INTP
+Ziguinchor,29,No formal education,Low,Social Media,High,Low,ENFP
+Dakar,48,No formal education,Low,Social Media,High,Medium,ISFJ
+Thies,45,Secondary,Low,Both,Low,Low,INFP
+Matam,38,Secondary,High,Traditional Media,High,High,ENFJ
+Dakar,21,No formal education,Medium,Traditional Media,High,Low,ESTJ
+Ziguinchor,69,Tertiary,Medium,Traditional Media,Medium,High,ISFJ
+Dakar,55,Secondary,Medium,Both,Medium,Low,INTJ
+Ziguinchor,69,Secondary,Medium,Traditional Media,Medium,High,ENTJ
+Matam,35,Primary,Low,Social Media,High,High,ESFP
+Dakar,47,No formal education,Medium,Social Media,Medium,High,ESTJ
+Matam,23,No formal education,Low,Traditional Media,Medium,Medium,INTJ
+Matam,50,Secondary,High,Social Media,Medium,Low,INFJ
+Kedougou,27,No formal education,High,Traditional Media,Low,High,ISFJ
+Dakar,39,Primary,High,Social Media,High,Medium,ESTP
+Matam,18,Tertiary,High,Social Media,High,Medium,ISFP
+Dakar,59,Tertiary,Medium,Traditional Media,Medium,High,ESFJ
+Dakar,69,Primary,Medium,Traditional Media,High,Low,ISTP
+Ziguinchor,27,Tertiary,High,Traditional Media,High,High,ESFP
+Dakar,55,No formal education,Medium,Social Media,Low,Low,ISFJ
+Ziguinchor,41,Tertiary,Medium,Social Media,Medium,High,INTP
+Matam,38,Primary,Low,Social Media,Low,Low,ENTJ
+Kedougou,68,Primary,Medium,Traditional Media,High,Medium,INFP
+Matam,55,Primary,High,Traditional Media,High,Medium,ESTJ
+Thies,28,Secondary,High,Social Media,High,High,ENFJ
+Dakar,68,Secondary,High,Social Media,Medium,Medium,ESFJ
+Kedougou,34,Secondary,Medium,Both,Medium,Low,ENTP
+Thies,36,No formal education,High,Traditional Media,High,High,ISFP
+Thies,18,Secondary,Medium,Social Media,Medium,Low,ENTJ
+Matam,54,Primary,Medium,Both,Medium,High,INFP
+Kedougou,64,No formal education,High,Social Media,High,High,ESFP
+Dakar,52,No formal education,Low,Both,High,Medium,ESTP
+Matam,43,Primary,Medium,Both,High,Low,ISFP
+Kedougou,40,Primary,Low,Traditional Media,High,High,INTP
+Thies,21,Primary,High,Social Media,High,Low,ESTJ
+Kedougou,45,Primary,Medium,Both,High,High,ISTJ
+Dakar,52,Tertiary,Low,Social Media,Medium,Medium,ESTP
+Ziguinchor,21,Tertiary,Medium,Both,High,Low,ESFP
+Dakar,66,No formal education,High,Traditional Media,Medium,Medium,ISTP
+Dakar,26,Tertiary,Medium,Traditional Media,High,High,INFP
+Ziguinchor,21,Tertiary,Low,Both,Medium,Medium,ESFP
+Kedougou,56,Secondary,Medium,Traditional Media,High,High,ESFP
+Dakar,66,Tertiary,Medium,Social Media,Medium,High,ENTJ
+Ziguinchor,36,Secondary,High,Social Media,High,Medium,ISTJ
+Kedougou,67,No formal education,Low,Social Media,Medium,High,ISFJ
+Thies,61,Primary,Medium,Both,Low,Medium,ISFJ
+Kedougou,59,Tertiary,Medium,Social Media,High,High,ISTP
+Kedougou,42,Tertiary,Low,Traditional Media,High,Medium,ENFP
+Dakar,41,No formal education,Low,Social Media,Low,Medium,INTJ
+Kedougou,30,No formal education,Medium,Both,Low,High,INTP
+Thies,39,Tertiary,Medium,Both,Medium,Low,ISTJ
+Thies,46,Tertiary,Medium,Traditional Media,Medium,Low,ENTP
+Ziguinchor,44,No formal education,Low,Traditional Media,Medium,High,ISFJ
+Thies,68,Secondary,High,Social Media,High,High,ISTJ
+Ziguinchor,53,Primary,High,Both,Medium,Medium,ESFP
+Thies,38,Primary,Medium,Traditional Media,Medium,Low,INFP
+Ziguinchor,49,Secondary,High,Traditional Media,Low,High,ESFP
+Ziguinchor,68,Secondary,High,Both,Medium,Low,ISTP
+Matam,57,Tertiary,High,Both,Low,Medium,ESFP
+Kedougou,38,Primary,Medium,Social Media,High,High,ESFP
+Dakar,64,Secondary,Medium,Traditional Media,Medium,Low,ESFP
+Matam,61,Tertiary,Low,Both,High,High,ESTJ
+Dakar,24,No formal education,High,Traditional Media,Medium,Low,ESFJ
+Matam,42,Primary,Medium,Traditional Media,Low,High,ISTJ
+Dakar,44,Primary,High,Social Media,High,High,ESFP
+Kedougou,53,Secondary,Medium,Both,High,Medium,ESTP
+Thies,31,No formal education,High,Social Media,Medium,Low,ISTP
+Dakar,22,Tertiary,Medium,Social Media,Medium,Medium,ISTP
+Matam,48,No formal education,High,Both,High,Medium,ISFP
+Dakar,20,No formal education,Low,Traditional Media,Medium,High,ISFP
+Ziguinchor,52,Primary,Medium,Traditional Media,Medium,Medium,INFP
+Ziguinchor,52,Primary,High,Traditional Media,Low,High,ISFJ
+Dakar,28,Tertiary,Low,Traditional Media,Medium,Low,ISFP
+Thies,50,Primary,Medium,Traditional Media,Low,Low,ESFJ
+Dakar,60,Secondary,Low,Social Media,Medium,Low,ISFP
+Dakar,61,Primary,Low,Both,High,Medium,INFJ
+Dakar,62,Secondary,High,Traditional Media,Low,Low,INFP
+Matam,51,Primary,Low,Social Media,Medium,Low,ESTP
+Matam,26,Tertiary,Low,Traditional Media,High,High,ISTP
+Ziguinchor,45,No formal education,Low,Social Media,High,Medium,ESFJ
+Thies,66,Primary,High,Traditional Media,Low,High,INFJ
+Thies,57,Primary,Medium,Traditional Media,Medium,High,ESFP
+Ziguinchor,57,Secondary,Medium,Traditional Media,Medium,Low,ESFJ
+Kedougou,51,Secondary,Medium,Social Media,Medium,Medium,INFJ
+Kedougou,38,No formal education,Medium,Both,High,Medium,ESFJ
+Thies,34,Tertiary,High,Social Media,Medium,High,INFJ
+Thies,40,Tertiary,Low,Traditional Media,Medium,Medium,ISTJ
+Dakar,59,No formal education,Medium,Traditional Media,Low,High,ENFP
+Thies,39,Secondary,Medium,Both,Low,Medium,ESTP
+Thies,21,Tertiary,Medium,Social Media,Low,Medium,INTJ
+Kedougou,66,Tertiary,High,Traditional Media,Low,Medium,INFP
+Matam,63,Secondary,Low,Social Media,High,Low,ESFP
+Matam,34,Secondary,Low,Social Media,Low,High,INTP
+Ziguinchor,45,No formal education,Medium,Traditional Media,Medium,Medium,ESFP
+Thies,62,No formal education,High,Social Media,High,Low,ESTP
+Matam,23,Secondary,High,Traditional Media,Low,High,ESTJ
+Dakar,20,Tertiary,Low,Social Media,Low,Medium,ISTJ
+Ziguinchor,27,Primary,Low,Both,Low,Medium,ESTJ
+Ziguinchor,59,Primary,Low,Both,High,Low,ESFJ
+Kedougou,35,Tertiary,Medium,Traditional Media,Medium,High,INTP
+Dakar,46,No formal education,High,Traditional Media,High,Low,INFJ
+Kedougou,31,Primary,Low,Social Media,Medium,Low,ESFJ
+Dakar,19,Secondary,High,Social Media,Medium,Medium,INFJ
+Kedougou,38,No formal education,Low,Social Media,Low,Medium,ESFJ
+Kedougou,66,No formal education,High,Social Media,High,Low,ESFJ
+Thies,51,No formal education,Medium,Traditional Media,Low,Low,INFP
+Kedougou,33,Secondary,Low,Social Media,High,Low,ENTJ
+Thies,45,Primary,Medium,Both,Low,Low,ISFP
+Kedougou,66,No formal education,High,Both,Low,Medium,ENTJ
+Kedougou,44,Secondary,High,Both,Low,Low,ISTJ
+Thies,49,Primary,Medium,Traditional Media,High,Low,ESFP
+Dakar,59,Tertiary,Low,Both,Low,High,ESFP
+Thies,26,Tertiary,Low,Both,High,Low,ESTJ
+Thies,67,Secondary,High,Both,Low,Medium,ENTJ
+Ziguinchor,63,Tertiary,Medium,Traditional Media,Medium,Low,ESTP
+Matam,41,Primary,High,Traditional Media,Low,Medium,INFP
+Dakar,42,Primary,High,Social Media,Medium,Low,INTJ
+Dakar,29,Primary,Medium,Both,Medium,Medium,ISFP
+Matam,68,Tertiary,Medium,Social Media,High,Medium,ISFP
+Thies,28,Secondary,Medium,Social Media,High,High,ISTJ
+Kedougou,43,Tertiary,High,Social Media,High,High,ESTJ
+Thies,65,No formal education,High,Traditional Media,Low,High,INTJ
+Kedougou,18,No formal education,Low,Social Media,Low,Low,ENTJ
+Kedougou,22,No formal education,Low,Both,Low,Medium,ENTJ
+Thies,63,No formal education,Medium,Social Media,Low,High,ISTJ
+Ziguinchor,45,Tertiary,Medium,Social Media,Low,Low,ENFP
+Thies,44,No formal education,High,Social Media,High,High,ISFJ
+Matam,41,Secondary,High,Both,Medium,Low,ENTJ
+Kedougou,67,No formal education,Low,Both,Medium,High,ISFJ
+Matam,45,Primary,High,Social Media,High,Low,ISFP
+Kedougou,43,Tertiary,Medium,Traditional Media,Low,Low,ENFP
+Dakar,19,Tertiary,Medium,Both,High,Medium,INFJ
+Kedougou,43,Primary,High,Social Media,Low,Medium,ISTJ
+Kedougou,35,Secondary,Low,Both,Low,Low,ISTJ
+Kedougou,39,Tertiary,Medium,Both,Low,Low,ISFP
+Dakar,50,No formal education,High,Traditional Media,High,Low,INTJ
+Dakar,56,Secondary,High,Traditional Media,Medium,Low,ENFJ
+Ziguinchor,56,Tertiary,Medium,Social Media,High,High,ESFJ
+Dakar,21,Secondary,Medium,Both,Low,High,ENTP
+Dakar,55,No formal education,High,Both,High,Low,ISTJ
+Thies,28,Tertiary,Low,Both,Low,Low,ESFP
+Kedougou,19,Tertiary,Low,Traditional Media,Low,High,INFJ
+Dakar,19,No formal education,Medium,Social Media,Medium,Low,ENTP
+Matam,22,Primary,High,Social Media,High,Medium,INFJ
+Ziguinchor,20,Secondary,Low,Social Media,Medium,Medium,ENTJ
+Matam,39,Primary,High,Both,Medium,Medium,INTP
+Ziguinchor,40,Primary,High,Both,High,High,ISFJ
+Dakar,19,Primary,High,Traditional Media,High,Medium,ISTP
+Thies,20,Secondary,Medium,Both,High,High,INFJ
+Kedougou,61,No formal education,Medium,Both,Medium,Low,INTP
+Dakar,64,Tertiary,Low,Traditional Media,Low,Medium,ESTJ
+Thies,63,Primary,Low,Social Media,Low,Low,ISFJ
+Matam,47,No formal education,High,Traditional Media,Medium,High,ISFJ
+Dakar,59,Secondary,Low,Both,Medium,High,ENFJ
+Matam,18,Tertiary,High,Traditional Media,Medium,Medium,INFP
+Ziguinchor,30,Secondary,High,Traditional Media,Medium,High,INTJ
+Dakar,27,Secondary,High,Both,Low,Low,ISTP
+Dakar,55,Tertiary,Low,Traditional Media,High,Low,ESTJ
+Ziguinchor,26,Primary,Low,Traditional Media,High,High,INTP
+Kedougou,59,No formal education,High,Traditional Media,High,High,INTJ
+Thies,18,No formal education,Medium,Traditional Media,High,Medium,ENTP
+Ziguinchor,61,Tertiary,Low,Social Media,Low,Low,INTJ
+Ziguinchor,51,Primary,High,Both,Medium,Low,ESFJ
+Thies,19,Secondary,Medium,Both,Medium,Low,ENFJ
+Kedougou,31,Tertiary,High,Social Media,Low,High,ISTP
+Thies,61,Primary,Medium,Traditional Media,Low,Low,ENFP
+Kedougou,51,Tertiary,High,Both,High,High,ESTJ
+Dakar,66,Primary,Medium,Traditional Media,High,Low,INTJ
+Dakar,36,Secondary,High,Social Media,High,Low,ENFP
+Ziguinchor,20,Primary,Medium,Social Media,Medium,Medium,ENFJ
+Dakar,41,Primary,Low,Both,Low,Low,ISFJ
+Thies,62,Primary,Medium,Both,Low,Medium,ESTJ
+Matam,64,Tertiary,Medium,Social Media,Low,High,ISFJ
+Dakar,65,Tertiary,Medium,Traditional Media,Low,Medium,ISFJ
+Thies,29,Secondary,Low,Traditional Media,Low,High,ISFP
+Dakar,53,No formal education,High,Social Media,Low,Low,INTJ
+Kedougou,54,No formal education,Low,Both,High,High,ESTP
+Thies,49,Secondary,Low,Social Media,High,High,INTP
+Ziguinchor,42,Primary,High,Both,Low,High,INFJ
+Kedougou,20,Tertiary,High,Social Media,Low,Low,ENFP
+Dakar,40,Primary,Low,Both,High,Medium,INTJ
+Matam,61,No formal education,Medium,Traditional Media,Low,Medium,ESTJ
+Matam,18,Primary,Low,Both,High,High,ESTJ
+Matam,67,No formal education,Medium,Both,Low,High,INFJ
+Dakar,56,Primary,Low,Traditional Media,Low,Medium,ENTP
+Matam,38,Tertiary,High,Social Media,Low,High,ESTJ
+Kedougou,29,Secondary,Low,Both,Low,Medium,ENFP
+Thies,66,Primary,Medium,Traditional Media,Low,Medium,ESTJ
+Dakar,51,No formal education,Low,Social Media,High,High,ESTJ
+Ziguinchor,26,Secondary,Low,Social Media,High,Low,ENFP
+Matam,41,Primary,Low,Social Media,Medium,Medium,ENFJ
+Thies,59,Secondary,High,Social Media,High,Low,ESFJ
+Kedougou,68,Tertiary,Medium,Both,Low,Low,ISTP
+Matam,42,No formal education,High,Social Media,High,Medium,ISFJ
+Thies,64,Primary,High,Traditional Media,Medium,Low,ISFP
+Kedougou,21,Primary,High,Traditional Media,Low,Low,INFJ
+Matam,33,Secondary,High,Traditional Media,Medium,Low,ENTJ
+Dakar,53,Secondary,Low,Traditional Media,Low,Medium,ISFP
+Matam,56,No formal education,Low,Both,Medium,Low,INTP
+Ziguinchor,45,Tertiary,High,Social Media,High,High,INFP
+Dakar,30,Tertiary,High,Social Media,Medium,Low,ESTP
+Matam,27,No formal education,High,Social Media,Medium,High,ENTP
+Dakar,32,No formal education,High,Both,Medium,High,INTJ
+Matam,25,No formal education,Medium,Social Media,High,Low,ISTP
+Kedougou,69,No formal education,Medium,Both,High,Medium,ENTP
+Matam,32,Tertiary,High,Social Media,High,Medium,ISTP
+Dakar,48,Tertiary,Medium,Traditional Media,Medium,High,INFJ
+Kedougou,63,Tertiary,Low,Both,Medium,Low,ENFJ
+Matam,46,No formal education,Low,Social Media,Medium,Low,INTJ
+Ziguinchor,69,Secondary,High,Both,High,Low,INTP
+Matam,49,No formal education,Low,Traditional Media,High,Low,ISTJ
+Dakar,43,No formal education,Low,Traditional Media,High,High,ISTJ
+Dakar,67,Primary,High,Traditional Media,Medium,High,ISTJ
+Thies,38,No formal education,Medium,Social Media,High,High,ENFP
+Kedougou,25,No formal education,High,Both,High,High,ISFP
+Kedougou,31,Primary,High,Social Media,Low,Low,ENTJ
+Matam,49,Tertiary,Medium,Traditional Media,High,Low,INTP
+Kedougou,19,Secondary,Medium,Traditional Media,High,Low,INFP
+Kedougou,62,Tertiary,Medium,Traditional Media,Medium,Low,ESFJ
+Ziguinchor,66,Primary,High,Social Media,High,Low,ISFJ
+Ziguinchor,33,Primary,Medium,Social Media,Low,Low,INFP
+Kedougou,35,No formal education,Medium,Traditional Media,High,Medium,INFJ
+Matam,22,Secondary,Low,Traditional Media,High,Low,ESFP
+Matam,47,Tertiary,Low,Social Media,Medium,High,ISTJ
+Kedougou,64,Tertiary,Medium,Both,High,Low,ESFJ
+Thies,52,Tertiary,High,Both,High,Low,ISFP
+Dakar,66,Primary,High,Traditional Media,Medium,High,ENTJ
+Matam,50,Primary,Low,Social Media,High,Low,INFJ
+Ziguinchor,27,Tertiary,Low,Social Media,High,High,ESTJ
+Ziguinchor,32,No formal education,Low,Social Media,High,Low,ISTP
+Thies,35,No formal education,High,Traditional Media,Low,Medium,INFP
+Kedougou,42,Secondary,Medium,Social Media,Low,Low,ENFJ
+Matam,45,Primary,Medium,Social Media,High,Medium,ISFJ
+Thies,69,Tertiary,High,Traditional Media,Medium,Medium,ISTP
+Ziguinchor,30,Tertiary,Medium,Social Media,Low,High,ISTP
+Dakar,57,No formal education,Low,Traditional Media,High,High,INTJ
+Thies,35,No formal education,High,Social Media,High,Medium,INTJ
+Ziguinchor,34,Primary,High,Social Media,High,High,ENTJ
+Thies,29,Primary,Medium,Traditional Media,Low,Low,ISFP
+Thies,29,Secondary,Medium,Traditional Media,Medium,High,ISFJ
+Matam,67,Secondary,Medium,Social Media,High,Medium,ENFJ
+Matam,45,Primary,Medium,Social Media,Low,Low,ISFP
+Kedougou,25,Secondary,High,Traditional Media,High,High,ENFP
+Kedougou,46,No formal education,High,Traditional Media,Low,High,ISFJ
+Dakar,53,Secondary,Medium,Both,High,Medium,INTJ
+Dakar,61,Tertiary,High,Both,High,Medium,ESTP
+Thies,47,No formal education,High,Social Media,Medium,Low,ENTJ
+Dakar,46,Secondary,Low,Both,Low,High,ENTP
+Matam,61,Tertiary,Low,Both,Low,Medium,ENFP
+Thies,39,No formal education,Low,Traditional Media,Low,Medium,ESTJ
+Ziguinchor,60,Primary,High,Both,High,High,ENFP
+Ziguinchor,57,Tertiary,High,Social Media,Low,Medium,ENTP
+Kedougou,28,Tertiary,Medium,Social Media,Medium,Medium,ESTJ
+Kedougou,49,Tertiary,Medium,Traditional Media,High,Medium,INTP
+Matam,58,Primary,High,Traditional Media,High,Low,ESTJ
+Kedougou,29,Primary,Low,Traditional Media,Low,High,INFP
+Kedougou,25,No formal education,Medium,Traditional Media,Medium,High,ISFP
+Dakar,24,Secondary,Medium,Traditional Media,Low,High,INFJ
+Thies,57,Secondary,High,Traditional Media,Medium,High,INTP
+Kedougou,24,No formal education,High,Social Media,High,High,ISTP
+Thies,68,No formal education,High,Both,Medium,Medium,ISFP
+Thies,40,Primary,Medium,Social Media,Medium,High,INTJ
+Ziguinchor,34,Secondary,High,Both,Medium,High,ESTJ
+Ziguinchor,22,No formal education,High,Social Media,High,High,ISFJ
+Matam,41,Secondary,High,Traditional Media,High,Low,ENFP
+Kedougou,65,Secondary,Medium,Traditional Media,Medium,High,ESFJ
+Dakar,67,Primary,Medium,Social Media,High,High,ISTJ
+Thies,55,Primary,Medium,Both,Low,Medium,ISFJ
+Dakar,26,No formal education,High,Social Media,High,Low,INTJ
+Matam,32,Primary,Low,Traditional Media,High,Low,ISFP
+Thies,37,Tertiary,Medium,Both,Low,High,ENFP
+Thies,61,No formal education,High,Traditional Media,High,High,INFP
+Ziguinchor,58,Primary,Medium,Both,Low,High,ESFJ
+Kedougou,23,Tertiary,Low,Traditional Media,Low,Low,INFP
+Matam,50,Secondary,Low,Both,Medium,Low,ISFJ
+Kedougou,26,Primary,Low,Traditional Media,Medium,Medium,ISFJ
+Ziguinchor,19,Tertiary,High,Traditional Media,Medium,Low,ESTP
+Kedougou,23,Tertiary,Low,Social Media,Medium,Medium,ENTJ
+Matam,28,Primary,Medium,Social Media,Low,Medium,ISFP
+Ziguinchor,34,No formal education,Medium,Both,Low,High,ESFJ
+Thies,41,Tertiary,Medium,Traditional Media,High,Medium,ENTJ
+Dakar,39,Secondary,Low,Social Media,High,High,ESFJ
+Kedougou,68,No formal education,Low,Social Media,Low,High,ENFP
+Ziguinchor,51,Tertiary,Medium,Traditional Media,High,Low,INFJ
+Ziguinchor,23,Secondary,High,Traditional Media,Medium,Medium,ISTJ
+Kedougou,60,Tertiary,Medium,Traditional Media,High,High,ISFP
+Matam,67,Tertiary,Low,Traditional Media,Low,Low,ESFJ
+Matam,41,Tertiary,Low,Social Media,High,Medium,ESFJ
+Kedougou,61,Secondary,Medium,Both,Low,Medium,ENTP
+Thies,68,Tertiary,Medium,Both,High,Medium,ISFP
+Ziguinchor,54,No formal education,High,Traditional Media,High,High,ENFJ
+Kedougou,33,Tertiary,Low,Traditional Media,Low,Low,ESFP
+Matam,50,Primary,Medium,Traditional Media,Medium,High,INFP
+Thies,63,Tertiary,Low,Traditional Media,High,Low,ISTP
+Ziguinchor,43,Primary,Low,Both,High,Low,ISTP
+Thies,32,Tertiary,Medium,Traditional Media,Low,Medium,ESFP
+Matam,30,Secondary,Medium,Both,Medium,High,ENFP
+Ziguinchor,18,Primary,High,Both,Medium,Low,ESFP
+Matam,40,Tertiary,Low,Traditional Media,Low,Medium,INTJ
+Thies,52,Secondary,Medium,Both,Low,Low,ENFJ
+Thies,20,No formal education,High,Traditional Media,Low,Medium,ISFJ
+Matam,52,Primary,Low,Social Media,High,High,INFJ
+Thies,18,Primary,Medium,Social Media,High,High,ENTJ
+Ziguinchor,49,Primary,High,Both,Low,Low,ISFJ
+Kedougou,44,Tertiary,Low,Traditional Media,High,Medium,ESFP
+Dakar,52,No formal education,Medium,Social Media,Low,Low,ISFP
+Matam,64,No formal education,High,Both,High,High,ISFP
+Thies,29,No formal education,Low,Both,Low,Medium,ISFP
+Ziguinchor,65,Primary,High,Social Media,High,Medium,ESFP
+Kedougou,59,Primary,High,Both,Medium,High,ESTJ
+Kedougou,59,Primary,Medium,Social Media,Low,High,ISTJ
+Matam,37,Secondary,Medium,Both,Low,High,INTP
+Thies,48,No formal education,Low,Both,High,Low,ISTP
+Kedougou,47,Tertiary,High,Social Media,High,High,INTP
+Ziguinchor,30,Primary,Medium,Social Media,Low,Medium,ESTP
+Ziguinchor,67,Secondary,Medium,Traditional Media,High,High,ESFJ
+Kedougou,43,Tertiary,Medium,Social Media,Medium,Low,ENFP
+Kedougou,52,Tertiary,High,Traditional Media,Medium,High,ESTP
+Dakar,57,No formal education,Medium,Social Media,Medium,Medium,ESTJ
+Kedougou,30,No formal education,Low,Both,Medium,High,ISFJ
